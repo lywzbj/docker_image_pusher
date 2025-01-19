@@ -1,15 +1,5 @@
 
-docker.io/calico/cni:v3.20.6
-docker.io/calico/pod2daemon-flexvol:v3.20.6
-docker.io/calico/node:v3.20.6
-docker.io/calico/kube-controllers:v3.20.6
-kubernetesui/dashboard:v2.3.1
-kubernetesui/metrics-scraper:v1.0.6
-mysql:8.4.2
-redis:7.2
-cimg/openjdk:17.0.13
-cimg/openjdk:11.0.22
-rabbitmq:management-alpine
+emqx/emqx-enterprise:5.6.1
 
 
 
