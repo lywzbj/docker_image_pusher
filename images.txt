@@ -1,5 +1,4 @@
-tomcat:8.0.22
-emqx/emqx-enterprise:5.6.1
+bitnami/tomcat:10.1.34
 
 
 
