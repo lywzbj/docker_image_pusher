@@ -1,1 +1,1 @@
-xanderye/dnf-server:centos7
+xanderye/dnf-mysql:5.6
