@@ -1,6 +1,1 @@
-docker.getcollate.io/openmetadata/server:1.5.8
-elasticsearch:8.16.5
-apache/airflow:2.10.5
-
-
-
+xanderye/dnf-server:centos7
